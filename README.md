@@ -37,3 +37,9 @@ Exactly what is happening when we are including "app.js" first and then dom-load
 
 ##### Conclusion of the story is when we are writing web application then precedence of script file is very important and we have to take care of that. If our project is very complex then it is troublesome work to do.
 
+Here comes the role of package bundler. So, Webpack is one of the package bundler that is very populer.
+### What WebPack does?
+webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.
+for more details please visit below link
+https://webpack.js.org/concepts
+
