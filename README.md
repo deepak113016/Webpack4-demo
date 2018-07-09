@@ -2,7 +2,7 @@
 ## Why WebPack ?
 ### Demo Description
 
-We need to create a html page page. In the html page we will have a button and a paragraph.
+We will create a html page page. In the html page we will have a button and a paragraph.
 When we will click on Button "Show the Fact". It will show some fact below the button and
 button will change into "Hide the Fact". When we will click on "Hide the Fact" fact should
 be invisible and button should be change into "Show the Fact".
