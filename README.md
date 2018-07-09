@@ -34,3 +34,6 @@ But, If you incluede app.js first and dom-loader later. then you will get error
  <img width="384" alt="error" src="https://user-images.githubusercontent.com/27186815/42444389-95b012a2-838d-11e8-92a3-106cb80e1cd6.PNG">
  
 Exactly what is happening when we are including "app.js" first and then dom-loader. Here, we are trying to use object of dom-loader in app.js that is not available because when app.js is running dom-loader.js is not included. This error is coming because we are trying to use object that is not available.
+
+##### Conclusion of the story is when we are writing web application then precedence of script file is very important and we have to take care of that. If our project is very complex then it is troublesome work to do.
+
