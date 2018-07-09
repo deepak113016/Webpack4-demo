@@ -40,6 +40,5 @@ Exactly what is happening when we are including "app.js" first and then dom-load
 Here comes the role of package bundler. So, Webpack is one of the package bundler that is very populer.
 ### What WebPack does?
 webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.
-for more details please visit below link
-https://webpack.js.org/concepts
+for more details please visit this link https://webpack.js.org/concepts
 
